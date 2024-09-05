@@ -107,10 +107,3 @@ The project includes basic unit tests to validate the functionality of the memor
 - Add support for multithreading and concurrent memory access.
 - Expand testing to cover additional edge cases and performance benchmarks.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to replace the logo URLs with your actual images or adjust any other elements as needed!

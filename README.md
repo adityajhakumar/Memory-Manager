@@ -1,5 +1,8 @@
 
-# Memory Manager
+
+# 🧠 Memory Manager
+
+![Memory Manager Logo](https://via.placeholder.com/150x150.png?text=Memory+Manager) 
 
 ## Overview
 
@@ -36,14 +39,14 @@ In many systems, dynamic memory allocation is a critical feature that allows pro
 
 ### Memory Manager Functions
 
-1. **`void* my_malloc(size_t size)`**
+1. **`void* my_malloc(size_t size)`** 🧩
    - Allocates a block of memory of the specified size from the memory pool.
    - Returns a pointer to the allocated memory, or `NULL` if there is not enough space.
 
-2. **`void my_free(void* ptr)`**
+2. **`void my_free(void* ptr)`** 🔄
    - Frees a previously allocated block of memory, making it available for future allocations.
 
-3. **`void print_memory_stats()`**
+3. **`void print_memory_stats()`** 📊
    - Prints the current status of the memory pool, including allocated and free memory.
 
 ### Example Usage
@@ -100,7 +103,7 @@ The project includes basic unit tests to validate the functionality of the memor
 - Handling allocation failures.
 - Checking memory pool status.
 
-## Future Enhancements
+## Future Enhancements 🚀
 
 - Implement more sophisticated memory management techniques, such as memory compaction and fragmentation handling.
 - Add support for multithreading and concurrent memory access.

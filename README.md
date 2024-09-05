@@ -1,8 +1,8 @@
 
-
 # 🧠 Memory Manager
 
-![Memory Manager Logo](https://via.placeholder.com/150x150.png?text=Memory+Manager) 
+![C Language Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Programming_Language.svg) <!-- C Language Logo -->
+![Memory Logo](https://upload.wikimedia.org/wikipedia/commons/3/3e/Free_Software_Foundation_logo.svg) 
 
 ## Overview
 
@@ -109,3 +109,10 @@ The project includes basic unit tests to validate the functionality of the memor
 - Add support for multithreading and concurrent memory access.
 - Expand testing to cover additional edge cases and performance benchmarks.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Feel free to replace the logo URLs with your actual images or adjust any other elements as needed!
